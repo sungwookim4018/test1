@@ -1,1 +1,4 @@
-my computer 
+my computer
+red
+blue
+yellow
