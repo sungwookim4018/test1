@@ -1,4 +1,4 @@
-![냥이](./images/cat.jpg)
+![냥이](https://github.com/sungwookim4018/test1/blob/master/Saved%20Pictures/cat1.jpg)
 ***
 
 # 나의소개
