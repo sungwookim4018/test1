@@ -1,4 +1,5 @@
-![냥이](./images/cat1.jpg)
+![냥이](./images/cat.jpg)
+***
 
 # 나의소개
 
